@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieApps</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="gambar">gambar</string>
+    <string name="mad_max_fudy">Mad Max Fury</string>
+    <string name="tahun_film">2015</string>
+    <string name="durasi_film">120 Menit</string>
+    <string name="rating_film">8.1/10</string>
+    <string name="favorit">mark as favorit</string>
+    <string name="rating_movie">8.1 / 10</string>
+    <string name="judul_film">Mad Fad Fury</string>
+</resources>
